@@ -92,7 +92,7 @@ body{
 }
 
 #black-card{
-        background-color: rgba(0, 0, 0, 0.2); /* Cor preta com opacidade */
+        background-color: rgba(0, 0, 0, 0.3); /* Cor preta com opacidade */
         color: white; /* Cor do texto dentro do card */
         box-sizing: border-box; /* Inclui padding e borda na largura total */
         padding: 2rem;
