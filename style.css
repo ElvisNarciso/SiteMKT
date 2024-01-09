@@ -1,0 +1,109 @@
+:root{
+    --titulo-gold: gold;
+    --texto-goldenrod: goldenrod;
+}
+
+/* Fonts  */
+
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@300;400;500;600&family=Poppins:wght@300;400;500;700;800&display=swap');
+
+/* Fonts  */
+
+
+
+body{
+    background-image: url(./img/14960600_5544937.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Poppins', sans-serif;
+}
+
+#barra{
+    box-shadow: 0 4px 8px rgb(241, 245, 6);
+}
+
+/* ids nav  */
+
+#linka{
+    color: var(--titulo-gold);
+
+    
+}
+
+#link{
+    color: var(--texto-goldenrod);
+}
+
+#link:hover{
+    color: var(--titulo-gold);
+}
+/* ids nav  */
+
+
+/* minhas ids  */
+#titulo{
+    color: var(--titulo-gold);
+    font-size: 44px;
+    font-weight: 600;
+    
+
+    
+}
+
+#texto{
+    color: var(--texto-goldenrod);
+    font-size: 15px;
+}
+
+/* minhas ids  */
+
+.navbar-nav .nav-link {
+    font-size: 20px; /* Tamanho da fonte desejado */
+}
+
+#logo{
+    width: 130px;
+    height: 60px;
+}
+
+/* menu  */
+
+
+/* Imagem direita  */
+#direita{
+    border-radius: 5rem;
+}
+/* Imagem direita  */
+/* textos da pagina  */
+
+/* textos da pagina  */
+
+/* form  */
+
+#aviso{
+    color: var(--texto-goldenrod);
+}
+#email{
+
+}
+
+#botao{
+    background-color: var(--titulo-gold);
+}
+
+#black-card{
+        background-color: rgba(0, 0, 0, 0.2); /* Cor preta com opacidade */
+        color: white; /* Cor do texto dentro do card */
+        box-sizing: border-box; /* Inclui padding e borda na largura total */
+        padding: 2rem;
+        border-radius: 2rem;
+}
+
+#foot{
+    color: #d3d3d3;
+    font-size: 11px;
+    list-style: none;
+    text-decoration: none;
+}
+
+/* teste shine  */
