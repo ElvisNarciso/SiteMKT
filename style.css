@@ -106,4 +106,13 @@ body{
     text-decoration: none;
 }
 
-/* teste shine  */
+/* botão box  */
+
+.bx{
+    font-size: 3rem;
+    color: var(--texto-goldenrod);
+}
+.bx:hover{
+    color: var(--titulo-gold);
+    transition: 0.5s ease-in-out;
+}
